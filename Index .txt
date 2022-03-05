@@ -1,0 +1,19 @@
+
+     **** AURAL MEDIA ****
+
+     A web document can be rendered by a speech synthesizer. CSS2 allows you to 
+attach specific sound style features to specific document elements.
+Aural rendering of documents is mainly used by the visually impaired. Some of 
+the situations in which a document can be accessed by means of aural rendering 
+rather than visual rendering are the following.
+ Learning to read
+ Training
+ Web access in vehicles
+ Home entertainment
+ Industrial documentation
+ Medical documentation
+When using aural properties, the canvas consists of a three-dimensional physical 
+space (sound surrounds) and a temporal space (one may specify sounds before, 
+during, and after other sounds).
+The CSS properties also allow you to vary the quality of synthesized speech 
+(voice type, frequency, inflection, etc.).
